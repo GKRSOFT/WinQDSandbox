@@ -10,7 +10,6 @@ Please see WinQD [ReadTheDocs](https://capev2.readthedocs.io/en/latest/#)
 WinQD Sandbox files:
 * Copy the winqd.py file to the /opt/CAPEv2/modules/
 * Copy the winqd.conf file to the /opt/CAPEv2/conf/
-* backup and replace the guest.py file in the /opt/CAPEv2/lib/cuckoo/core/
 
 ### Configuration
 Edit to /opt/CAPEv2/lib/cuckoo/cuckoo.conf
