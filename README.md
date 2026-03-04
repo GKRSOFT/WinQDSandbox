@@ -12,16 +12,16 @@ WinQD Sandbox files:
 * Copy the winqd.conf file to the /opt/CAPEv2/conf/
 
 ### Configuration
-Edit to /opt/CAPEv2/lib/cuckoo/cuckoo.conf
+Edit file /opt/CAPEv2/lib/cuckoo/cuckoo.conf
 * Change machinery to winqd
 
-Edit to /opt/CAPEv2/lib/cuckoo/routing.conf
+Edit file /opt/CAPEv2/lib/cuckoo/routing.conf
 * Change internet to none
 
 Update as needed /opt/CAPEv2/lib/cuckoo/winqd.conf
 * Update / add an addition WinQD Sandbox
 
-Edit to /opt/CAPEv2/lib/cuckoo/common/constants.py
+Edit file /opt/CAPEv2/lib/cuckoo/common/constants.py
 * Change CUCKOO_GUEST_PORT to 8006
 
 Edit file /opt/CAPEv2/lib/cuckoo/core/guest.py
