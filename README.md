@@ -19,7 +19,7 @@ Edit file /opt/CAPEv2/lib/cuckoo/routing.conf
 * Change internet to none
 
 Update as needed /opt/CAPEv2/lib/cuckoo/winqd.conf
-* Update / add an addition WinQD Sandbox
+* Update / add an additional WinQD Sandbox
 
 Edit file /opt/CAPEv2/lib/cuckoo/common/constants.py
 * Change CUCKOO_GUEST_PORT to 8006
