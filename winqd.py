@@ -1,7 +1,6 @@
-# Copyright (C) 2012-2014 The MITRE Corporation.
-# Copyright (C) 2015-2018 Cuckoo Foundation.
-# This file is part of Cuckoo Sandbox - http://www.cuckoosandbox.org
-# See the file 'docs/LICENSE' for copying permission.
+# Copyright (C) 2026 GKRSOFT.
+# This machinery file modifications, is based on the source code from CAPEv2
+# See the file 'LICENSE' for copying permission.
 
 import json
 import logging
