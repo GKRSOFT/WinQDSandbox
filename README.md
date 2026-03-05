@@ -3,8 +3,6 @@
 ### WinQD Sandbox is a malware sandbox for CAPEv2.
 A sandbox is used to execute malicious files in an isolated environment
 whilst instrumenting their dynamic behaviour and collecting forensic artefacts.
-Please see WinQD [ReadTheDocs](https://capev2.readthedocs.io/en/latest/#)
-
 
 ### Installation
 WinQD Sandbox files:
