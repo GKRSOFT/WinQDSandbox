@@ -31,3 +31,4 @@ Edit file /opt/CAPEv2/lib/cuckoo/core/guest.py
 #### Special note about config parsing frameworks:
 * Due to the nature of malware, since it changes constantly when any new version is released, something might become broken!
 * We suggest using CAPE's framework 
+* Replace the file nginx.conf in WinQD 
