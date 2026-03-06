@@ -93,7 +93,7 @@ class Winqd(Machinery):
         try:
             if managerType == "pure":
                 url = f"http://{machine.ip}:{CUCKOO_GUEST_PORT}"
-                r = requests.get(f"{url}/revirtVM")
+                r = requests.get(f"{url}/revertVM")
                 print(r.text)
         except Exception:
             # The reboot will start immediately which may kill our socket so we just ignore this exception
